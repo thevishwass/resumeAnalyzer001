@@ -87,7 +87,7 @@ export default function ContentPage() {
           <div className="contact-text" style={{ flex: 1 }}>
             <h2 style={{ fontSize: "2rem", marginBottom: "1rem" }}>Contact Us</h2>
             <p style={{ fontSize: "1.1rem" }}>
-              If you have any questions or suggestions, reach out at <a href="mailto:thevishwass@gmail.com" style={{ color: "#0070f3" }}>thevishwass@gmail.com</a> OR <a href="mailto:kamalsahani345@gmail.com" style={{ color: "#0070f3" }}>kamalsahani345@gmail.com</a>
+              If you have any questions or suggestions, reach out at <a href="mailto:thevishwass@gmail.com" style={{ color: "#0070f3" }}>thevishwass@gmail.com</a> OR <a href="mailto:sahanikamal345@gmail.com" style={{ color: "#0070f3" }}>sahanikamal345@gmail.com</a>
             </p>
           </div>
           
