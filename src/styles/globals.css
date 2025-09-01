@@ -439,6 +439,7 @@ a:hover {
   h1 { font-size: 1.875rem; }
   .card { padding: 2rem; }
   .upload-area { padding: 2rem 1rem; }
+  .main-content { padding: 0.5rem;}
 }
 
 /* =========================
@@ -474,6 +475,9 @@ a:hover {
   font-size: 1.2rem;
 }
 
+.main-content {
+  padding: 2rem;
+}
 
 /* Section Headings */
 .main-content h2 {
@@ -484,7 +488,7 @@ a:hover {
 }
 
 .main-content {
-  padding-bottom: 0px;
+  padding: 0;
 }
 
 /* About Section */
@@ -596,10 +600,11 @@ a:hover {
   .hero-section h1 {
     font-size: 2rem;
   }
-
+  
   .main-content h2 {
     font-size: 1.6rem;
   }
+  .main-content { padding: 0.5rem;}
 
   .how-it-works .step,
   .benefits-section .benefit-card {

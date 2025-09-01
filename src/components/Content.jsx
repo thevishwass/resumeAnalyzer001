@@ -20,7 +20,7 @@ export default function ContentPage() {
 
       </header>
 
-      <main className="main-content" style={{ padding: "2rem" }}>
+      <main className="main-content" >
 
         {/* About Section */}
         <section className="about-section" style={{ display: "flex", gap: "3rem", marginBottom: "4rem", alignItems: "center" }}>
